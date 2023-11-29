@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     {
         instance = this;
         Application.targetFrameRate = 120;
+        PlayerPrefs.SetString("JobName", "KnightBtn");
     }
     // Start is called before the first frame update
     void Start()
