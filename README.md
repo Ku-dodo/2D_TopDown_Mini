@@ -17,10 +17,10 @@ ___
   : 우측 상단 메뉴 버튼을 클릭하면 캐릭터 설정 창이 열리며, 저장하기를 누르면 조건을 확인한 후 닫힙니다.<br/>이때 마우스 및 키보드 조작은 제한됩니다.
 
 
-### 캐릭터 이동 및 카메라 이동
+### 캐릭터 및 카메라 이동
 ___
 <img width = "70%" src="https://private-user-images.githubusercontent.com/105593231/286462366-4bbbafc7-d386-48f4-8d7d-942f4a49a5d6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyMjc1NjksIm5iZiI6MTcwMTIyNzI2OSwicGF0aCI6Ii8xMDU1OTMyMzEvMjg2NDYyMzY2LTRiYmJhZmM3LWQzODYtNDhmNC04ZDdkLTk0MmY0YTQ5YTVkNi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyOVQwMzA3NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ODI2MWI5MTgyMzNjZDA0MjZiNzY3M2ZkNTY2NzA2ZGFmZmViMDVkNDY4Nzg0Yzc5ZGIwOTRkN2QyMzY3NWMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dBVgBICO78sMqUKlpKdIyZJq1lleLPRBkYuPf1DyOHU" alt="Camera Move"/>
-  카메라 무빙
+  카메라 이동
   : 기본적으로 캐릭터를 따라가며, 캐릭터 기준 마우스 방향에 더 넓은 시야를 갖습니다.
   <br/>
   <br/>
