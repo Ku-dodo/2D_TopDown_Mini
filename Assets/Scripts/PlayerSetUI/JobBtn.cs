@@ -22,5 +22,4 @@ public class JobBtn : MonoBehaviour
         _player.GetComponent<AddChildPrefab>().CallPrefabAdd();
         _animator.SetBool(_controllBtnAnimBool, true);
     }
-    
 }
